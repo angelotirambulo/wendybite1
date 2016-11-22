@@ -23,6 +23,7 @@ body{
 	padding: 30px;
 	max-width: 650px;
 	margin: 0 auto;
+	margin-top: 15px;
 	color: white;
 }
 
@@ -49,18 +50,24 @@ nav{
 
 	
 }
-a
-{
+
+a{
 	text-decoration: none;
 	color: white;
 	font-size: 20px;
 }
 
-a:hover
-{
+a:hover{
 	text-decoration:underline;
 	color: #15cb97;
 	font-size: 20px;
+}
+
+a.social{
+	text-decoration: underline;
+	color: #15cb97;
+	font-size: 15px;
+	padding: 0px 4px;
 }
 
 
@@ -136,22 +143,13 @@ p.workplace{
 
 }
 
-h6
-{
+h6{
 	font-family: sans-serif;
 	font-size: 15px
 }
 
 footer{
 padding: 10px;
-}
-a.social
-
-{
-	text-decoration: underline;
-	color: #15cb97;
-	font-size: 15px;
-	padding: 0px 4px;
 }
 
 
